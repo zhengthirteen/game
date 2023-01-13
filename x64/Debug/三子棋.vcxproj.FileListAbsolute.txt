@@ -1,0 +1,2 @@
+D:\桌面\study\vs\三子棋\x64\Debug\三子棋.exe
+D:\桌面\study\vs\游戏\x64\Debug\三子棋.exe
